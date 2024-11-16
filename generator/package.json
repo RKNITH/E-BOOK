@@ -1,0 +1,42 @@
+{
+  "name": "epub-generator",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 8181",
+    "build": "next build",
+    "start": "next start -p 8181",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@nextui-org/react": "^2.4.6",
+    "@tiptap/extension-placeholder": "^2.5.8",
+    "@tiptap/pm": "^2.5.8",
+    "@tiptap/react": "^2.5.8",
+    "@tiptap/starter-kit": "^2.5.8",
+    "clsx": "^2.1.1",
+    "epub-gen": "^0.1.0",
+    "epub-gen-memory": "^1.1.2",
+    "framer-motion": "^11.3.21",
+    "next": "14.2.5",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-icons": "^5.2.1",
+    "slugify": "^1.6.6",
+    "streamifier": "^0.1.1",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "@types/epub-gen": "^0.1.2",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@types/streamifier": "^0.1.2",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.5",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  }
+}

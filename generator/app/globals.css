@@ -1,0 +1,67 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.tiptap p.is-editor-empty:first-child::before {
+  color: #a1a1aa;
+  content: attr(data-placeholder);
+  float: left;
+  height: 0;
+  pointer-events: none;
+  font-size: 16px;
+}
+.dark .tiptap p.is-editor-empty:first-child::before {
+  color: #a1a1aa;
+}
+
+.tiptap-ol {
+  padding: 0 1rem;
+  list-style: decimal !important;
+}
+
+.tiptap-ul {
+  padding: 0 1rem;
+  list-style: disc !important;
+}
+
+.dark .tiptap {
+  border: 2px solid #27272a;
+  background: #27272a;
+}
+
+.tiptap {
+  outline: none;
+  padding: 12px;
+}
+
+.regular .tiptap {
+  outline: none;
+  padding: 0px;
+  border: none;
+  border-radius: 0px;
+  background: transparent;
+}
+
+.remove-default-tiptap .tiptap {
+  outline: none;
+  padding: 0px;
+  border: none;
+  border-radius: 0px !important;
+  background: inherit !important;
+}
+
+.tiptap p {
+  padding: 10px 0;
+}
+
+.tiptap h1 {
+  font-size: 25px;
+  font-weight: bold;
+  padding: 10px 0;
+}
+
+.tiptap h2 {
+  font-size: 22px;
+  font-weight: bold;
+  padding: 10px 0;
+}

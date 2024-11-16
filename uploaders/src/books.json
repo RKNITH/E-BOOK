@@ -1,0 +1,122 @@
+[
+  {
+    "title": "The Secret Garden",
+    "description": "In the walled garden, Mary finds a key to unlock the mystery of her lonely uncle's house. As she tends the garden, it begins to bloom – just as she blossoms herself. A timeless tale of love, friendship, and the power of nature.",
+    "price": { "mrp": 15, "sale": 10 },
+    "genre": "Fiction",
+    "publicationName": "Penguin Random House",
+    "language": "English"
+  },
+  {
+    "title": "Murder on the Orient Express",
+    "description": "Hercule Poirot investigates a murder on a luxurious train journey through Europe. As the snowdrifts block the train's path, Poirot uncovers a web of lies, secrets, and betrayal. A classic mystery that keeps readers guessing until the end.",
+    "price": { "mrp": 20, "sale": 15 },
+    "genre": "Mystery",
+    "publicationName": "HarperCollins",
+    "language": "English"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "description": "Set in the racially charged atmosphere of the Deep South, Scout Finch recounts her father's defense of a black man accused of rape. Through her innocent eyes, readers confront issues of prejudice, injustice, and morality.",
+    "price": { "mrp": 18, "sale": 12 },
+    "genre": "Fiction",
+    "publicationName": "Hachette Book Group",
+    "language": "English"
+  },
+  {
+    "title": "The Alchemist",
+    "description": "Follow Santiago, a young shepherd boy, as he embarks on a journey to find his personal legend. Along the way, he encounters wise mentors, mysterious omens, and the true meaning of destiny. A philosophical tale of self-discovery and fulfillment.",
+    "price": { "mrp": 12, "sale": 8 },
+    "genre": "Fiction",
+    "publicationName": "Simon & Schuster",
+    "language": "English"
+  },
+  {
+    "title": "Becoming",
+    "description": "Michelle Obama's memoir traces her journey from a working-class upbringing on the South Side of Chicago to the White House as First Lady of the United States. With candor and insight, she reflects on her experiences, accomplishments, and challenges.",
+    "price": { "mrp": 25, "sale": 20 },
+    "genre": "Biography/Autobiography",
+    "publicationName": "Random House",
+    "language": "English"
+  },
+  {
+    "title": "1984",
+    "description": "George Orwell's dystopian masterpiece explores a totalitarian society where individuality is suppressed, and government surveillance is omnipresent. Through the eyes of Winston Smith, readers witness the struggle for freedom and truth in a world of oppression.",
+    "price": { "mrp": 16, "sale": 12 },
+    "genre": "Science Fiction",
+    "publicationName": "Penguin Books",
+    "language": "English"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "description": "Jane Austen's classic novel follows the romantic entanglements of the Bennet sisters as they navigate the societal expectations of 19th-century England. With wit, charm, and timeless characters, Austen explores themes of love, marriage, and social class.",
+    "price": { "mrp": 14, "sale": 10 },
+    "genre": "Romance",
+    "publicationName": "Vintage Classics",
+    "language": "English"
+  },
+  {
+    "title": "The Great Gatsby",
+    "description": "F. Scott Fitzgerald's iconic tale captures the glamour and excess of the Jazz Age while exploring themes of love, wealth, and the American Dream. Through the enigmatic Jay Gatsby, readers glimpse the hollow pursuit of happiness in a materialistic society.",
+    "price": { "mrp": 17, "sale": 13 },
+    "genre": "Fiction",
+    "publicationName": "Scribner",
+    "language": "English"
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "description": "Holden Caulfield's journey through New York City captures the disillusionment and alienation of adolescence. J.D. Salinger's seminal work remains a timeless exploration of identity, authenticity, and the search for meaning in a world of phoniness.",
+    "price": { "mrp": 15, "sale": 11 },
+    "genre": "Fiction",
+    "publicationName": "Little, Brown and Company",
+    "language": "English"
+  },
+  {
+    "title": "The Hobbit",
+    "description": "Bilbo Baggins embarks on an unexpected adventure with a group of dwarves to reclaim their homeland from the dragon Smaug. J.R.R. Tolkien's enchanting tale of courage, friendship, and heroism is a beloved classic of fantasy literature.",
+    "price": { "mrp": 19, "sale": 15 },
+    "genre": "Fantasy",
+    "publicationName": "Mariner Books",
+    "language": "English"
+  },
+  {
+    "title": "Frankenstein",
+    "description": "Mary Shelley's gothic masterpiece delves into the moral and ethical implications of scientific experimentation. Through the tragic tale of Victor Frankenstein and his creature, Shelley explores themes of creation, responsibility, and the nature of humanity.",
+    "price": { "mrp": 16, "sale": 12 },
+    "genre": "Horror",
+    "publicationName": "Penguin Classics",
+    "language": "English"
+  },
+  {
+    "title": "The Road",
+    "description": "Cormac McCarthy's post-apocalyptic novel follows a father and son as they journey through a ravaged landscape in search of hope and redemption. Against a backdrop of desolation, McCarthy explores themes of survival, love, and the human spirit.",
+    "price": { "mrp": 18, "sale": 14 },
+    "genre": "Fiction",
+    "publicationName": "Vintage International",
+    "language": "English"
+  },
+  {
+    "title": "The Girl with the Dragon Tattoo",
+    "description": "Journalist Mikael Blomkvist and hacker Lisbeth Salander uncover dark secrets as they investigate a decades-old disappearance. Stieg Larsson's gripping thriller combines intricate plotting, compelling characters, and social commentary.",
+    "price": { "mrp": 20, "sale": 16 },
+    "genre": "Mystery",
+    "publicationName": "Vintage Crime/Black Lizard",
+    "language": "English"
+  },
+  {
+    "title": "The Hunger Games",
+    "description": "In a dystopian society, Katniss Everdeen volunteers to take her sister's place in a deadly competition. Suzanne Collins' gripping tale of survival, sacrifice, and rebellion captivates readers with its action-packed narrative and thought-provoking themes.",
+    "price": { "mrp": 22, "sale": 18 },
+    "genre": "Young Adult",
+    "publicationName": "Scholastic Press",
+    "language": "English"
+  },
+  {
+    "title": "The Da Vinci Code",
+    "description": "Harvard symbologist Robert Langdon unravels a centuries-old mystery involving religious symbols, secret societies, and hidden truths. Dan Brown's fast-paced thriller is a rollercoaster ride of intrigue, suspense, and conspiracy.",
+    "price": { "mrp": 21, "sale": 17 },
+    "genre": "Mystery",
+    "publicationName": "Anchor Books",
+    "language": "English"
+  }
+]
